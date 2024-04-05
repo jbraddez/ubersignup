@@ -1,0 +1,62 @@
+.title{
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 200;
+    color: darkgray;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+   
+    
+
+}
+
+#submit{
+    border-radius: 15px;
+    border: none;
+    background-color: lightgreen;
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    margin: 5px;
+    padding: 5px;
+    top: 205px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+#submit:hover{
+    background-color: rgb(25, 206, 25);
+    color: rgb(48, 48, 48);
+}
+
+#boxes
+{
+    background-color: grey;
+}
+
+
+.logo{
+    width: 200px;
+    height: 45px;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+#another{
+    border-radius: 10px;
+    border: 1px solid "lightgray";
+    position: absolute;
+    top: 140px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 110px;
+    height: 40px;
+    background-color: rgb(25, 206, 25);
+    color: rgb(48, 48, 48);
+}
